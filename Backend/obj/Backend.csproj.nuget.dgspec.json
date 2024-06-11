@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luis.vega\\sources\\c#\\Backend\\Backend\\Backend.csproj": {}
+    "C:\\Users\\luise\\sources\\Backend.Net\\Backend\\Backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luis.vega\\sources\\c#\\Backend\\Backend\\Backend.csproj": {
+    "C:\\Users\\luise\\sources\\Backend.Net\\Backend\\Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luis.vega\\sources\\c#\\Backend\\Backend\\Backend.csproj",
+        "projectUniqueName": "C:\\Users\\luise\\sources\\Backend.Net\\Backend\\Backend.csproj",
         "projectName": "Backend",
-        "projectPath": "C:\\Users\\luis.vega\\sources\\c#\\Backend\\Backend\\Backend.csproj",
-        "packagesPath": "C:\\Users\\luis.vega\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luis.vega\\sources\\c#\\Backend\\Backend\\obj\\",
+        "projectPath": "C:\\Users\\luise\\sources\\Backend.Net\\Backend\\Backend.csproj",
+        "packagesPath": "C:\\Users\\luise\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luise\\sources\\Backend.Net\\Backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\luis.vega\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luise\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
